@@ -1,0 +1,11 @@
+{
+  "tool": "AMD Studio",
+  "purpose": "هوية الاستيراد — عشان كل استيراد يفضل منفصل عن التاني",
+  "projectId": "ed_code",
+  "projectName": "MD Studio (مستورد)",
+  "importStamp": "20261121-181616",
+  "importCount": 2,
+  "packageName": "com.amd.mdstudio.github",
+  "repo": "md-studio-20261121-181616",
+  "writtenAt": "2026-11-21T18:16:30"
+}
